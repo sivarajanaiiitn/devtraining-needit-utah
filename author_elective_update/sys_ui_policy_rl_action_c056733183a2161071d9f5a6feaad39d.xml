@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_ui_policy_rl_action">
+    <sys_ui_policy_rl_action action="DELETE">
+        <list>x_58872_needit_needit_task.u_needit</list>
+        <sys_class_name>sys_ui_policy_rl_action</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-12-19 11:41:44</sys_created_on>
+        <sys_id>c056733183a2161071d9f5a6feaad39d</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_58872_needit_needit_task.u_needit</sys_name>
+        <sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope>
+        <sys_update_name>sys_ui_policy_rl_action_c056733183a2161071d9f5a6feaad39d</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-12-19 11:41:44</sys_updated_on>
+        <ui_policy display_value="whenever task get approved need to hide all the other fields for selection">c73f2bf58362161071d9f5a6feaad311</ui_policy>
+        <visible>false</visible>
+    </sys_ui_policy_rl_action>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</application>
+        <file_path/>
+        <instance_id>4d0e34cddbde7dd8ebdd2a59139619c6</instance_id>
+        <instance_name>dev201172</instance_name>
+        <name>sys_ui_policy_rl_action_c056733183a2161071d9f5a6feaad39d</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_ui_policy_rl_action"><sys_ui_policy_rl_action action="INSERT_OR_UPDATE"><list>x_58872_needit_needit_task.u_needit</list><sys_class_name>sys_ui_policy_rl_action</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2024-12-19 11:41:44</sys_created_on><sys_id>c056733183a2161071d9f5a6feaad39d</sys_id><sys_mod_count>0</sys_mod_count><sys_name>x_58872_needit_needit_task.u_needit</sys_name><sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package><sys_policy/><sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope><sys_update_name>sys_ui_policy_rl_action_c056733183a2161071d9f5a6feaad39d</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2024-12-19 11:41:44</sys_updated_on><ui_policy display_value="whenever task get approved need to hide all the other fields for selection">c73f2bf58362161071d9f5a6feaad311</ui_policy><visible>false</visible></sys_ui_policy_rl_action></record_update>]]></payload>
+        <payload_hash>1261976677</payload_hash>
+        <record_name>x_58872_needit_needit_task.u_needit</record_name>
+        <reverted_from/>
+        <source>5e14ef398322161071d9f5a6feaad317</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-12-19 11:41:44</sys_created_on>
+        <sys_id>f5663ffd8362161071d9f5a6feaad370</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>193deb9475e0000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-12-19 11:41:44</sys_updated_on>
+        <type>UI Policy Related List Action</type>
+        <update_guid>f9663ffd2f6216104e777b0f967ed06f</update_guid>
+        <update_guid_history>f9663ffd2f6216104e777b0f967ed06f:1261976677</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-12-19 11:42:23</sys_created_on>
+        <sys_db_object display_value="" name="sys_ui_policy_rl_action">sys_ui_policy_rl_action</sys_db_object>
+        <sys_id>01eab7de5e0a41a0803c2aa922bbc510</sys_id>
+        <sys_metadata>c056733183a2161071d9f5a6feaad39d</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_58872_needit_needit_task.u_needit</sys_name>
+        <sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope>
+        <sys_scope_delete display_value="">94872a8897db403e8ee69a431de2fca4</sys_scope_delete>
+        <sys_update_name>sys_ui_policy_rl_action_c056733183a2161071d9f5a6feaad39d</sys_update_name>
+        <sys_update_version display_value="sys_ui_policy_rl_action_c056733183a2161071d9f5a6feaad39d">f5663ffd8362161071d9f5a6feaad370</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-12-19 11:42:23</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>
